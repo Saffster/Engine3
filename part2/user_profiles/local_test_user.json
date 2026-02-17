@@ -1,0 +1,103 @@
+{
+  "user_id": "local_test_user",
+  "watched": [
+    {
+      "id": 122917,
+      "rating": 5.0,
+      "completed_at": "2026-02-16T09:06:38.116066+00:00"
+    },
+    {
+      "id": 102651,
+      "rating": 2.5,
+      "completed_at": "2026-02-16T09:06:38.116079+00:00"
+    },
+    {
+      "id": 339964,
+      "rating": 4.0,
+      "completed_at": "2026-02-16T09:06:38.116082+00:00"
+    },
+    {
+      "id": 341013,
+      "rating": 3.5,
+      "completed_at": "2026-02-16T09:06:38.116084+00:00"
+    },
+    {
+      "id": 152601,
+      "rating": 4.5,
+      "completed_at": "2026-02-16T09:06:38.116086+00:00"
+    },
+    {
+      "id": 558915,
+      "rating": 3.5,
+      "completed_at": "2026-02-16T09:06:38.116088+00:00"
+    },
+    {
+      "id": 44214,
+      "rating": 4.5,
+      "completed_at": "2026-02-16T09:06:38.116089+00:00"
+    },
+    {
+      "id": 313369,
+      "rating": 4.0,
+      "completed_at": "2026-02-16T09:06:38.116091+00:00"
+    },
+    {
+      "id": 1368166,
+      "rating": 4.0,
+      "completed_at": "2026-02-16T09:06:57.200626+00:00"
+    },
+    {
+      "id": 83533,
+      "rating": 4.0,
+      "completed_at": "2026-02-16T09:07:02.476007+00:00"
+    },
+    {
+      "id": 1419406,
+      "rating": 4.0,
+      "completed_at": "2026-02-16T09:07:07.758100+00:00"
+    }
+  ],
+  "unfinished": [
+    {
+      "id": 89,
+      "progress": 0.6
+    },
+    {
+      "id": 170,
+      "progress": 0.49
+    },
+    {
+      "id": 10681,
+      "progress": 0.16
+    },
+    {
+      "id": 1205515,
+      "progress": 0.28
+    }
+  ],
+  "points": 300,
+  "trophies": [
+    "Bronze Explorer",
+    "Silver Explorer"
+  ],
+  "points_log": [
+    {
+      "ts": "2026-02-16T09:06:57.200644+00:00",
+      "reason": "Completed promoted content (platform paid)",
+      "points": 100,
+      "movie_id": 1368166
+    },
+    {
+      "ts": "2026-02-16T09:07:02.476029+00:00",
+      "reason": "Completed promoted content (platform paid)",
+      "points": 100,
+      "movie_id": 83533
+    },
+    {
+      "ts": "2026-02-16T09:07:07.758120+00:00",
+      "reason": "Completed promoted content (platform paid)",
+      "points": 100,
+      "movie_id": 1419406
+    }
+  ]
+}

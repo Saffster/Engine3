@@ -1,0 +1,16 @@
+{
+  "user_id": "ivan",
+  "watched": [
+    { "id": 550, "rating": 5.0, "completed_at": "2026-02-16T10:00:00Z" },
+    { "id": 13, "rating": 4.5, "completed_at": "2026-02-15T09:00:00Z" },
+    { "id": 680, "rating": 4.0, "completed_at": "2026-02-14T11:00:00Z" },
+    { "id": 597, "rating": 4.0, "completed_at": "2026-02-13T12:00:00Z" }
+  ],
+  "unfinished": [
+    { "id": 600, "progress": 0.4 },
+    { "id": 14, "progress": 0.2 }
+  ],
+  "points": 320,
+  "trophies": ["Bronze Explorer", "Genre Hopper"],
+  "points_log": []
+}

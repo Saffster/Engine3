@@ -1,0 +1,15 @@
+{
+  "user_id": "1",
+  "watched": [
+    {"id": 603, "rating": 5.0},
+    {"id": 27205, "rating": 4.5},
+    {"id": 157336, "rating": 4.5},
+    {"id": 24428, "rating": 4.0},
+    {"id": 335984, "rating": 4.5},
+    {"id": 62, "rating": 4.0}
+  ],
+  "unfinished": [
+    {"id": 348350, "progress": 0.6},
+    {"id": 497698, "progress": 0.4}
+  ]
+}

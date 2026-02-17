@@ -1,0 +1,14 @@
+{
+  "user_id": "jeff",
+  "watched": [
+    { "id": 157336, "rating": 4.5, "completed_at": "2026-02-16T09:00:00Z" },
+    { "id": 284052, "rating": 4.0, "completed_at": "2026-02-15T10:00:00Z" },
+    { "id": 299536, "rating": 5.0, "completed_at": "2026-02-14T10:00:00Z" }
+  ],
+  "unfinished": [
+    { "id": 634649, "progress": 0.5 }
+  ],
+  "points": 480,
+  "trophies": ["Bronze Explorer", "Silver Explorer"],
+  "points_log": []
+}

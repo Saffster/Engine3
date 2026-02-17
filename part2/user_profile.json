@@ -1,0 +1,9 @@
+{
+  "user_id": "1",
+  "watched": [
+    { "id": 157336, "rating": 5.0 },
+    { "id": 24428, "rating": 4.0 },
+    { "id": 7451, "rating": 3.0 }
+  ],
+  "unfinished": []
+}

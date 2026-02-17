@@ -1,0 +1,13 @@
+{
+  "user_id": "leech",
+  "watched": [
+    { "id": 278, "rating": 5.0, "completed_at": "2026-02-16T08:00:00Z" },
+    { "id": 238, "rating": 4.5, "completed_at": "2026-02-15T08:00:00Z" }
+  ],
+  "unfinished": [
+    { "id": 424, "progress": 0.3 }
+  ],
+  "points": 150,
+  "trophies": ["Bronze Explorer"],
+  "points_log": []
+}
